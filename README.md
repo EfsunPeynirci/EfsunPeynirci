@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Efsun Peynirci.</h1>
-<h3 align="center">I' m a computer engineering student.</h3>
+
+### Hey 👋, I'm Efsun. 
+
+**`Engineer/Developer/Creator`**
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif">
 
-- 🌱 I’m currently learning **Flutter, Java**
+
+After producing contents for social media platforms and reaching millions of views and a hundred thousand followers in a short time period, I understood better that our time is the mobile era. For this reason I decided to become a developer in the Flutter ecosystem. The reason I chose Flutter is to be able to develop applications with both Android and IOS. And also I am currently learning the Java language.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
