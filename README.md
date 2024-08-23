@@ -15,7 +15,7 @@ On my GitHub, you'll find a range of projects showcasing my work in Flutter and 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; gap: 10px;">
+<p style="display: flex; gap: 20;">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="border: none;"/>
   </a>
