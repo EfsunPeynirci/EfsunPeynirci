@@ -5,8 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif">
 
 
-I am a computer engineering student in Turkey. After producing contents for social media platforms and reaching millions of views and a hundred thousand followers in a short time period, I understood better that our time is the mobile era. For this reason I decided to become a developer in the Flutter ecosystem. The reason I chose Flutter is to be able to develop applications with both Android and IOS.
+I am a computer engineering student from Turkey with a diverse skill set in both mobile app and game development. My journey started with creating engaging content for social media, which led me to develop a strong interest in software development. I have been working extensively with Flutter to build cross-platform mobile applications and recently began exploring game development using Unity and C#. 
 
+On my GitHub, you'll find a range of projects showcasing my work in Flutter and Unity, reflecting my passion for creating innovative solutions in both fields. I am continuously learning and experimenting, aiming to merge my technical skills with my creative background.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
