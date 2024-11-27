@@ -5,9 +5,14 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif">
 
 
-I am a computer engineering student from Turkey with a diverse skill set in both mobile app and game development. My journey started with creating engaging content for social media, which led me to develop a strong interest in software development. I have been working extensively with Flutter to build cross-platform mobile applications and recently began exploring game development using Unity and C#. 
+I am a computer engineering student from Turkey with a diverse skill set in mobile app. My journey started with creating engaging content for social media, which led me to develop a strong interest in software development. I have been working extensively with Flutter to build cross-platform mobile applications.
 
-On my GitHub, you'll find a range of projects showcasing my work in Flutter and Unity, reflecting my passion for creating innovative solutions in both fields. I am continuously learning and experimenting, aiming to merge my technical skills with my creative background.
+While Flutter and Dart are my main focus, my GitHub also showcases projects in:
+
+C#, HTML, and MSSQL: Web development projects using these technologies.
+C# and Unity: Game development projects demonstrating my ability to design and build interactive applications.
+Python: Data-driven projects and applications using datasets and exploring backend solutions.
+I love exploring diverse technologies and building creative, user-friendly applications. Let’s connect and innovate together🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
