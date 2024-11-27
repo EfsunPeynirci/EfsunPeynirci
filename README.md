@@ -9,9 +9,10 @@ I am a computer engineering student from Turkey with a diverse skill set in mobi
 
 While Flutter and Dart are my main focus, my GitHub also showcases projects in:
 
-C#, HTML, and MSSQL: Web development projects using these technologies.
-C# and Unity: Game development projects demonstrating my ability to design and build interactive applications.
-Python: Data-driven projects and applications using datasets and exploring backend solutions.
+- C#, HTML, and MSSQL: Web development projects using these technologies.
+- C# and Unity: Game development projects demonstrating my ability to design and build interactive applications.
+- Python: Data-driven projects and applications using datasets and exploring backend solutions.
+  
 I love exploring diverse technologies and building creative, user-friendly applications. Let’s connect and innovate together🚀
 
 <h3 align="left">Connect with me:</h3>
