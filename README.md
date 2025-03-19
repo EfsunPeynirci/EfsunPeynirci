@@ -4,16 +4,14 @@
 **`Engineer/Developer/Creator`**
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif">
 
+I am a computer engineering student with experience in various software development areas. I have worked on projects in mobile app development, web development, game design, and data-driven applications. You can check out my projects and the technologies I’ve used on my GitHub profile.
 
-I am a computer engineering student from Turkey with a diverse skill set in mobile app. My journey started with creating engaging content for social media, which led me to develop a strong interest in software development. I have been working extensively with Flutter to build cross-platform mobile applications.
-
-While Flutter and Dart are my main focus, my GitHub also showcases projects in:
-
+Some of the technologies I’ve worked with include:
 - C#, HTML, and MSSQL: Web development projects using these technologies.
 - C# and Unity: Game development projects demonstrating my ability to design and build interactive applications.
 - Python: Data-driven projects and applications using datasets and exploring backend solutions.
   
-I love exploring diverse technologies and building creative, user-friendly applications. Let’s connect and innovate together🚀
+My passion for software development and exploring different technologies drives me to create new projects every day. I am always striving to improve and build creative, user-friendly applications. Feel free to check out my GitHub profile to explore my projects 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
