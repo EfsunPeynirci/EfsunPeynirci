@@ -1,7 +1,7 @@
 
 ### Hey 👋, I'm Efsun.
 
-**`Engineer/Developer/Creator`**
+**`Computer Engineer`**
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif">
 
 I am a computer engineering student with experience in various software development areas. I have worked on projects in mobile app development, web development, game design, and data-driven applications. You can check out my projects and the technologies I’ve used on my GitHub profile.
