@@ -7,6 +7,7 @@
 I am a computer engineering student with experience in various software development areas. I have worked on projects in mobile app development, web development, game design, and data-driven applications. You can check out my projects and the technologies I’ve used on my GitHub profile.
 
 Some of the technologies I’ve worked with include:
+- Flutter and Firebase: I have developed mobile applications using Flutter, including features like user authentication and real-time data handling with Firebase Realtime Database. These projects demonstrate my ability to build user-friendly and responsive UIs, and manage state effectively.
 - C#, HTML, and MSSQL: Web development projects using these technologies.
 - C# and Unity: Game development projects demonstrating my ability to design and build interactive applications.
 - Python: Data-driven projects and applications using datasets and exploring backend solutions.
